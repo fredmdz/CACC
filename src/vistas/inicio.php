@@ -154,7 +154,7 @@
             <img class="marquesina-img-uno" src="src/assets/img/CEDES-color-oficial_transp Negro.png" alt="Imagen 1">
             <img class="marquesina-img-uno" src="src/assets/img/unach.png" alt="Imagen 2">
             <img class="marquesina-img-uno" src="src/assets/img/UAM.png" alt="Imagen 3">
-            <img class="marquesina-img-uno" src="src/assets/img/50_años_unach_2.png" alt="Imagen 3">
+            <img class="marquesina-img-uno" src="src/assets/img/jubileo3.png" alt="Imagen 4">
         </div>
     </div>
     </main>

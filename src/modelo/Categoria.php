@@ -169,7 +169,7 @@ class Categoria {
                 (SELECT id, titulo, tipo, archivo
                 FROM categorias
                 WHERE tipo = 'Infografia'
-                ORDER BY fecha DESC
+                ORDER BY RAND()
                 LIMIT 4);
             ");
             $consulta->execute();

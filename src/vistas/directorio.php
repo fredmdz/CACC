@@ -49,13 +49,13 @@
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="src/assets/img/dr.jpg">
+            <img class="team-img" src="src/assets/img/Dra.Andrea.png">
           </div>
           <p class="text-blk name">
-          Dr. Manuel Iván <br> Espinosa Gallegos
+          Dr. Andrea
           </p>
           <p class="text-blk position">
-          Coordinador General del <br> CEDES
+          Coordinadora General del <br> CEDES
           </p>
           <div class="social-media-links">
             <a href="https://twitter.com/cedesunach" target="_blank">
@@ -208,7 +208,7 @@
           </div>
         </div>
       </div>
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+            <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
             <img class="team-img" src="src/assets/img/MIRIAM.png">
@@ -235,9 +235,37 @@
           </div>
         </div>
       </div>
-    </div>
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="src/assets/img/Edgar.jpg">
+          </div>
+          <p class="text-blk name">
+          Edgar Amauri Hernández Hernández
+          </p>
+          <p class="text-blk position">
+          Desarrollador de Seguimiento del Proyecto Ciencia Abierta para la Comunicación del Conocimiento
+          </p>
+          <div class="social-media-links">
+            <a href="https://twitter.com/cedesunach" target="_blank">
+              <img src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/gray-twitter.svg">
+            </a>
+            <a href="https://www.facebook.com/unachcedes/" target="_blank">
+              <img src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/gray-fb.svg">
+            </a>
+            <a href="http://www.instagram.com/" target="_blank">
+              <img src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/gray-insta.svg">
+            </a>
+            <a href="http://www.gmail.com/" target="_blank">
+              <img src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/gray-mail.svg">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>      
   </div>
 </div>
+
 
       <button id="btn-subir" class="btn-subir-none">
         <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="" class="bi-caret-up-fill" viewBox="0 0 16 16">

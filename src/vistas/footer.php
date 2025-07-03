@@ -23,7 +23,7 @@
             </a>
 
             <a href="https://www.unach.mx/" target="_blank">
-              <img src="src/assets/img/50_unach.png" width="65" height="auto"  class="logo-50-unach" alt="Logo UNACH">
+              <img src="src/assets/img/jubileo.png" width="100" height="auto"  class="logo-0-unach" alt="Logo UNACH">
             </a>
           </div>
         </div>

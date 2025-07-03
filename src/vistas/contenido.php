@@ -105,13 +105,8 @@ $categoria=new Categoria();
               $categoria->setArchivo($registro['archivo']);
             
           ?>
-            <a id="card-opciones" href="../contenido/<?php echo $categoria->getId();?>" class="card card-secciones card-contenido">
-                <div class="card-body body-contenido">
-                    <img src="../src/assets/multimedia/img/<?php echo $categoria->getArchivo();?>" alt="">
-                    <p id="txt-card" class="p-normal"><?php echo $categoria->getTitulo();?></p>
-                </div>
-            </a>
-            <?php }?>
+
+            <?php }?> 
         </section>
     </header>
     

@@ -73,7 +73,8 @@
             <a class="nav-link text-white" id="eclipse"><span>Eclipse</span></a>
           </li>
         </ul>
-        <img class="unach_50" src="src/assets/img/unach_50_blanco.png" alt="../src/assets/img/Cienciaabierta2blanco.png">
+        <img class="" src="src/assets/img/logo_unach_p_fondo_blanco.png" alt="Logo UNACH" width="120">
+
         <a href="https://www.cedes.unach.mx/">
           <img class="logo_cedes" src="src/assets/img/cedes.png" alt="">
         </a>
